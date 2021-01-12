@@ -44,7 +44,7 @@ EAGLE is a cryptocurrency to make the world a better place.
 ----
 ## Further Reading ##
 
-  - in this repository:
+  - in /doc folder:
     - RUNNING-WINDOWS.md
     - RUNNING-MACOS.md
     - RUNNING-UNIX.md
