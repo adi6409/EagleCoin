@@ -22,7 +22,7 @@ EAGLE is a cryptocurrency to make the world a better place.
   - Window: `run.bat`
 
   - wait for the JavaFX wallet window to open
-  - on platforms without JavaFX, open http://localhost:6876/ in a browser
+  - on platforms without JavaFX, open http://localhost:7876/ in a browser
 
 ----
 ## Compile it! ##
@@ -31,27 +31,23 @@ EAGLE is a cryptocurrency to make the world a better place.
   - you need jdk-8 as well
 
 ----
-## Troubleshooting the NRS (EAGLE Reference Software) ##
+## Troubleshooting the ERS (EAGLE Reference Software) ##
 
-  - How to Stop the NRS Server?
+  - How to Stop the ERS Server?
     - click on EAGLE Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
-
-  - UI Errors or Stacktraces?
-    - report on BitBucket
-
+    
   - Permissions Denied?
-    - no spaces and only latin characters in the path to the NRS installation directory
+    - no spaces and only latin characters in the path to the ERS installation directory
     - known jetty issue
 
 ----
 ## Further Reading ##
 
   - in this repository:
-    - USERS-GUIDE.md
-    - DEVELOPERS-GUIDE.md
-    - OPERATORS-GUIDE.md
-    - In the doc folder
+    - RUNNING-WINDOWS.md
+    - RUNNING-MACOS.md
+    - RUNNING-UNIX.md
 
 ----
 
