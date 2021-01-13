@@ -12,5 +12,7 @@ to run on windows, you have 2 methods:
 # method 2 #
 
 I. open the eaglecoin folder using file explorer
+
 II. click run.bat
+
 III. to access the wallet, open a browser(preferably google chrome) and go to localhost:7876/index.html
