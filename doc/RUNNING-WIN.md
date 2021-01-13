@@ -1,9 +1,12 @@
 #RUNNING ON WINDOWS#
 
-to run on windows, you need to do the following things in order(only for the first time running):
-1. run EagleCoinservice.exe in the main directory of the coin.
-2. press install
-3. run eaglecoin.exe
-4. done!
-5. to access the wallet, open a browser(preferably google chrome) and go to localhost:7876/index.html
-if you have already installed using eaglecoinservice, you can just run eaglecoin.exe.
+to run on windows, you have 2 methods: 
+#method 1#
+1. open cmd
+2. cd to the eaglecoin folder
+3. type run.bat
+4. to access the wallet, open a browser(preferably google chrome) and go to localhost:7876/index.html
+#method 2#
+1. open the eaglecoin folder using file explorer
+2. click run.bat
+3. to access the wallet, open a browser(preferably google chrome) and go to localhost:7876/index.html
